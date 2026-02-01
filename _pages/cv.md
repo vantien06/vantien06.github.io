@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download (PDF)](/files/NguyenVanTien_CV.pdf)
 
 ## 🎓 Education
 
@@ -93,4 +94,4 @@ redirect_from:
 
 ## 📄 Download
 
-[📥 Download Full CV (PDF)](/files/NguyenVanTien_CV.pdf)
+
