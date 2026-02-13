@@ -89,9 +89,3 @@ redirect_from:
 **Databases:** MySQL Server
 
 **Operating Systems:** Linux, Windows
-
----
-
-## 📄 Download
-
-
